@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT 
 - 🌱 I’m currently learning HTML, Python.
 - 💞️ I’m looking to collaborate on everybody.
-- 📫 How to reach me by here.
+- 📫 You can reach me by here.
 
 <!---
 GHbulut/GHbulut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
