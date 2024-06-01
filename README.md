@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GHbulut
+- 👋 Hi, I’m @Goekay Hbulut
 - 👀 I’m interested in IT 
 - 🌱 I’m currently learning HTML, Python.
 - 💞️ I’m looking to collaborate on everybody.
